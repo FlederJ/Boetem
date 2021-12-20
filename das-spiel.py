@@ -15,8 +15,6 @@ pg.display.set_caption("Alhamdulabugabing")
 pg.init()
 pg.font.init()
 
-#hi
-
 done = False
 width = 640
 height = 640
